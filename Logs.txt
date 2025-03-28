@@ -1,1 +1,3 @@
-94cs:93cs:DC8270D0-BDF1-4554-BDC8-449235F09E7E
+local username = "94cs"
+local password = "93cs"
+local clientId = "DC8270D0-BDF1-4554-BDC8-449235F09E7E"
